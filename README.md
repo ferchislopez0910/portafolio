@@ -11,4 +11,4 @@
 </p>
 
 <p>LinkedIn:
-<a href="https://www.linkedin.com/in/maria-fernanda-lópez-álvarez-9a5462a2/ "></a><p>
+"https://www.linkedin.com/in/maria-fernanda-lópez-álvarez-9a5462a2/
