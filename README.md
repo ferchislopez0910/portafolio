@@ -1,6 +1,5 @@
 # My web page
 
-
 ### Authors :black_nib:
 * __Maria Fernanda Lopez__
 
